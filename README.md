@@ -1,4 +1,4 @@
-## Vue.js-with-Firebase
+# Vue.js-with-Firebase
 
 A Simple Vue.js project with Vue-Resource from firebase database 
 
@@ -7,7 +7,7 @@ But many of the devs still use Vue-Resource for Ajax and database purposes
 
 If vue-cli is not installed then first install it
 
-# Things to run on local server
+## Things to run on local server
 ```
 npm install
 
@@ -15,5 +15,5 @@ npm run dev
 
 ```
 
-# Firebase account is optional , json file can be only readable only.
+## Firebase account is optional , json file can be only readable only.
 
